@@ -1,0 +1,14 @@
+C:\Users\sethb\OneDrive\Desktop\repos\TestingApp\MainProject\bin\Debug\net8.0\MainProject.exe
+C:\Users\sethb\OneDrive\Desktop\repos\TestingApp\MainProject\bin\Debug\net8.0\MainProject.deps.json
+C:\Users\sethb\OneDrive\Desktop\repos\TestingApp\MainProject\bin\Debug\net8.0\MainProject.runtimeconfig.json
+C:\Users\sethb\OneDrive\Desktop\repos\TestingApp\MainProject\bin\Debug\net8.0\MainProject.dll
+C:\Users\sethb\OneDrive\Desktop\repos\TestingApp\MainProject\bin\Debug\net8.0\MainProject.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\TestingApp\MainProject\obj\Debug\net8.0\MainProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sethb\OneDrive\Desktop\repos\TestingApp\MainProject\obj\Debug\net8.0\MainProject.AssemblyInfoInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\TestingApp\MainProject\obj\Debug\net8.0\MainProject.AssemblyInfo.cs
+C:\Users\sethb\OneDrive\Desktop\repos\TestingApp\MainProject\obj\Debug\net8.0\MainProject.csproj.CoreCompileInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\TestingApp\MainProject\obj\Debug\net8.0\MainProject.dll
+C:\Users\sethb\OneDrive\Desktop\repos\TestingApp\MainProject\obj\Debug\net8.0\refint\MainProject.dll
+C:\Users\sethb\OneDrive\Desktop\repos\TestingApp\MainProject\obj\Debug\net8.0\MainProject.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\TestingApp\MainProject\obj\Debug\net8.0\MainProject.genruntimeconfig.cache
+C:\Users\sethb\OneDrive\Desktop\repos\TestingApp\MainProject\obj\Debug\net8.0\ref\MainProject.dll
